@@ -2,13 +2,11 @@
 
 ![](狗狗头像.png)
 
-# docsify <small>3.5</small>
+#终于到我拯救世界了 <small>QaQ</small>
 
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+> 这是一个菜鸟程序员的个人博客
+>
+> ##### **和我一起进阶吧**
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#如何变帅)
+[Get Started](#刘璐的博客)

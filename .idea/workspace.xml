@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5134770b-dd84-45df-8c1a-9fb8cc89decc" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2Bt3OzimvNj2x4s0RnJ0uYkBDnX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5134770b-dd84-45df-8c1a-9fb8cc89decc" name="默认的" comment="" />
+      <created>1657711525470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657711525470</updated>
+      <workItem from="1657711526611" duration="674000" />
+      <workItem from="1657867034461" duration="2628000" />
+      <workItem from="1658149127353" duration="2010000" />
+    </task>
+    <task id="LOCAL-00001" summary="博客">
+      <created>1657711550343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657711550343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="博客">
+      <created>1657867069035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657867069035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="博客">
+      <created>1657868267687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657868267687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="博客">
+      <created>1657868643791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657868643791</updated>
+    </task>
+    <task id="LOCAL-00005" summary="博客1">
+      <created>1657868832716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657868832716</updated>
+    </task>
+    <task id="LOCAL-00006" summary="博客2">
+      <created>1657869324745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657869324745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="侧边栏">
+      <created>1658149294111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658149294111</updated>
+    </task>
+    <task id="LOCAL-00008" summary="一些更改">
+      <created>1658149875573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658149875573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="一些更改">
+      <created>1658150360634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658150360634</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="博客" />
+    <MESSAGE value="博客1" />
+    <MESSAGE value="博客2" />
+    <MESSAGE value="侧边栏" />
+    <MESSAGE value="一些更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="一些更改" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658149249679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1658149249679" />
+    <state x="586" y="198" key="#检查" timestamp="1657867458638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#检查/0.0.1920.1040@0.0.1920.1040" timestamp="1657867458638" />
+    <state x="572" y="92" key="CommitChangelistDialog2" timestamp="1658150360224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1658150360224" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1658149925202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1658149925202" />
+    <state x="773" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657868775793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1657868775793" />
+  </component>
+</project>
